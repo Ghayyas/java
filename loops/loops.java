@@ -8,8 +8,7 @@ class Loops{
             System.out.println("Value of I is " + i);
         }
             
-       int a = 13;
-       int b =10;
+       int a = 13;       int b =10;
        
        if(a == 13){
             throw new IllegalArgumentException("a is true");
